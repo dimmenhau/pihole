@@ -1,0 +1,19 @@
+# Title: blocklist.lst
+# Last modified: 03 Jun 2022 22:45 UTC+7
+# Version: 
+# Blocked: 
+# Please report any ads or problems on GitHub
+# Homepage: 
+# GitHub: https://github.com/dimmenhau/pihole
+# Report issues: 
+# Download: https://github.com/dimmenhau/pihole/blocklist.lst
+#
+# =====================================================
+# [WEB] Gmx.net/Gmxpro.net/Gmx.de
+0.0.0.0 advideo.uimserv.net
+0.0.0.0 united.uimserv.net
+0.0.0.0 cdn.gmxpro.net
+0.0.0.0 images.smartshoppingfeed.de
+0.0.0.0 images.smartshoppingads.de
+0.0.0.0 smartshoppingads.de
+0.0.0.0 smartshoppingfeed.de
